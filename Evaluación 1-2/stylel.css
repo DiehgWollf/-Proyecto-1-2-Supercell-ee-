@@ -1,13 +1,29 @@
-.Gris{
-    background-color:rgb(240, 240, 240) ;
-}
-
-.GrisBd{
-    border-color: rgb(240, 240, 240);
-    border-style: solid;
-    border-width: 100px;
-}
-
 body{
-    font-family: "Open Sans", cursive;
+    font-family: "Raleway", cursive;
 }
+
+.Gris{
+    background-color:rgb(240, 240, 240);
+}
+
+
+.Borde-V{
+    border-style:solid;
+    border-color:rgb(208, 241, 214);
+    border-width: 100px;
+    padding: 0px; /* Añade 0px de relleno en todos los lados */
+}
+
+.Borde B{
+    border-color:rgb(192, 223, 242);
+}
+
+.Borde A{
+    border-color:rgb(251, 237, 182); 
+}
+
+.Borde R{
+    border-color:rgb(251, 213, 213);
+}
+
+
