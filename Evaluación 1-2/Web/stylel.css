@@ -1,0 +1,41 @@
+body{
+    font-family: "Raleway", cursive;
+}
+
+.Gris{
+    background-color:rgb(240, 240, 240);
+}
+
+
+.Borde-V{
+    border-style:solid;
+    border-color:rgb(208, 241, 214);
+    border-width: 50px;
+    padding: 0px; /* Añade 0px de relleno en todos los lados */
+    border-radius: 10px;
+}
+
+.Borde-B{
+    border-style:solid;
+    border-color:rgb(192, 223, 242);
+    border-width: 70px;
+    padding: 0px; /* Añade 0px de relleno en todos los lados */
+    border-radius: 10px;
+}
+
+.Borde-A{
+    border-style:solid;
+    border-color:rgb(251, 237, 182); 
+    border-width: 70px;
+    padding: 0px; /* Añade 0px de relleno en todos los lados */
+    border-radius: 10px;
+}
+
+.Borde-R{
+    border-style:solid;
+    border-color:rgb(251, 213, 213);
+    border-width: 50px;
+    padding: 0px; /* Añade 0px de relleno en todos los lados */
+    border-radius: 10px;
+}
+
