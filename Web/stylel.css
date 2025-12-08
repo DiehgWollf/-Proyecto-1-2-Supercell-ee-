@@ -1,0 +1,106 @@
+body{
+    font-family: "Raleway", cursive;
+}
+
+
+.Borde-V{
+    border-style:solid;
+    border-color:rgb(208, 241, 214);
+    border-width: 50px;
+    padding: 0px; /* Añade 0px de relleno en todos los lados */
+    border-radius: 10px;
+}
+
+.Borde-B{
+    border-style:solid;
+    border-color:rgb(192, 223, 242);
+    border-width: 70px;
+    padding: 0px; /* Añade 0px de relleno en todos los lados */
+    border-radius: 10px;
+}
+
+.Borde-A{
+    border-style:solid;
+    border-color:rgb(251, 237, 182); 
+    border-width: 70px;
+    padding: 0px; /* Añade 0px de relleno en todos los lados */
+    border-radius: 10px;
+}
+
+.Borde-R{
+    border-style:solid;
+    border-color:rgb(251, 213, 213);
+    border-width: 50px;
+    padding: 0px; /* Añade 0px de relleno en todos los lados */
+    border-radius: 10px;
+}
+
+.Title-1{
+    display:flex;
+    justify-content: center;
+    margin: 5%;
+}
+
+.Sub-1{
+    display: flex;
+    justify-content: center;
+}
+
+.Title-2{
+    display: flex;
+    justify-content: center;
+}
+
+.Title-3{
+    display: flex;
+    justify-content: center;
+}
+
+.Title-4{
+    display: flex;
+    justify-content: center;
+}
+
+.Title-5{
+    display: flex;
+    justify-content: center;
+}
+
+.Title-6{
+    display: flex;
+    justify-content: center;
+}
+
+.Title-7{
+    display: flex;
+    justify-content: center;
+}
+
+.Box-1{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(249, 250, 251);
+}
+
+.Color{
+    border-style: solid;
+    border-radius: 5%;
+    border-color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+}
+
+.Box-2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Box-3{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Box-4{
+    padding: 0px 0px 0px 150px;
+    margin: ;
+    border: ;
+}
