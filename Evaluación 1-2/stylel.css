@@ -2,11 +2,12 @@ body{
     font-family: "Raleway", cursive;
 }
 
+
 .Borde-V{
     border-style:solid;
     border-color:rgb(208, 241, 214);
     border-width: 50px;
-    padding: 0px; /* Añade 0px de relleno en todos los lados */
+    padding: 100px 0px 0px 0px; /* Añade 0px de relleno en todos los lados */
     border-radius: 10px;
 }
 
@@ -14,7 +15,7 @@ body{
     border-style:solid;
     border-color:rgb(192, 223, 242);
     border-width: 70px;
-    padding: 0px; /* Añade 0px de relleno en todos los lados */
+    padding: 100px 0px 0px 0px; /* Añade 0px de relleno en todos los lados */
     border-radius: 10px;
 }
 
@@ -22,7 +23,7 @@ body{
     border-style:solid;
     border-color:rgb(251, 237, 182); 
     border-width: 70px;
-    padding: 0px; /* Añade 0px de relleno en todos los lados */
+    padding: 100px 0px 0px 0px; /* Añade 0px de relleno en todos los lados */
     border-radius: 10px;
 }
 
@@ -30,7 +31,7 @@ body{
     border-style:solid;
     border-color:rgb(251, 213, 213);
     border-width: 50px;
-    padding: 0px; /* Añade 0px de relleno en todos los lados */
+    padding: 100px 0px 0px 0px ; /* Añade 0px de relleno en todos los lados */
     border-radius: 10px;
 }
 
@@ -45,27 +46,30 @@ body{
     justify-content: center;
 }
 
-.Title-2{
-    display: flex;
-    justify-content: center;
-}
-
-.Title-3{
-    display: flex;
-    justify-content: center;
-}
-
 .Box-1{
     display: flex;
     justify-content: space-around;
     background-color: rgb(249, 250, 251);
 }
 
-.Color{
+.Color:hover{
     border-style: solid;
     border-radius: 5%;
     border-color: rgb(255, 255, 255);
     background-color: rgb(255, 255, 255);
+    border-color: grey;
+}
+
+.Title-2{
+    display: flex;
+    justify-content: center;
+    padding: 90px 0px 0px 0px;
+}
+
+.Title-3{
+    display: flex;
+    justify-content: center;
+    padding: 0px 0px 60px 0px;
 }
 
 .Box-2{
@@ -73,9 +77,115 @@ body{
     justify-content: space-around;
 }
 
+.Color-1{
+    padding: 0px 0px 60px 0px;
+}
 .Box-3{
     display: flex;
     justify-content: space-around;
 }
+
+.Box-4{
+    padding: 0px 0px 0px 70px;
+}
+
+.Title-4{
+    display: flex;
+    justify-content: center;
+    padding: 90px 0px 0px 0px;
+}
+
+.Title-5{
+    display: flex;
+    justify-content: center;
+    padding: 0px 0px 60px 0px;
+}
+
+.Box-6{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Box-7{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Title-6{
+    display: flex;
+    justify-content: center;
+    padding: 90px 0px 0px 0px;
+}
+
+.Title-7{
+    display: flex;
+    justify-content: center;
+    padding: 0px 0px 60px 0px;
+}
+
+.Title-8{
+    display: flex;
+    justify-content: center;
+    padding: 90px 0px 0px 0px;
+}
+
+.Title-9{
+    display: flex;
+    justify-content: center;
+}
+
+.Title-10{
+    display: flex;
+    justify-content: center;
+    padding: 0px 0px 90px 0px;
+}
+
+.Title-11{
+    display: flex;
+    justify-content: center;
+}
+
+.Title-12{
+    display: flex;
+    justify-content: center;
+}
+
+.Title-13{
+    display: flex;
+    justify-content: center;
+    padding: 0px 0px 100px 0px;
+}
+
+.Lista{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(249, 250, 251);
+}
+
+.Borde-1:hover{
+    border-color: grey;
+    border-radius: 5%;
+    border-style: solid;
+}
+
+
+.Borde-2:hover{
+    border-color: grey;
+    border-radius: 5%;
+    border-style: solid;
+}
+
+.Borde-3:hover{
+    border-color: grey;
+    border-radius: 5%;
+    border-style: solid;
+}
+
+
+
+
+
+
+
 
 
